@@ -1,0 +1,12 @@
+main: me.rayzr522.pearlborder.PearlBorder
+
+name: ${project.name}
+description: ${project.description}
+version: ${project.version}
+author: Rayzr
+
+commands:
+  pearlborder:
+    description: The main command for PearlBorder.
+    # aliases: []
+    usage: "\u00A7cRayzr hecc'd something up."
