@@ -1,0 +1,2 @@
+# The number of blocks within the world border to also cancel pearl events
+threshold: 2.0
