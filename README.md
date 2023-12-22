@@ -7,7 +7,3 @@ This plugin is so simple that it doesn't even have a config or command or anythi
 ## Installation
 
 Just download the JAR from the [releases page](https://github.com/Rayzr522/PearlBorder/releases) and drop it in your plugins folder. That's it!
-
-## Join Me
-
-[![Discord Badge](https://github.com/Rayzr522/ProjectResources/raw/master/RayzrDev/badge-small.png)](https://rayzr.dev/join)
